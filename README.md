@@ -1,1 +1,1 @@
-# inetBankingV1
+JavaPractice
